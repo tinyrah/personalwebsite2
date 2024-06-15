@@ -6,6 +6,15 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
+    name: "Learnflow",
+    description:
+      "LearnFlowGPT is a Next.js and TypeScript-driven web app designed to enhance learning efficiency by employing scientifically-proven strategies and aids. This platform enables over 1200 students worldwide to reduce their study time by 20% while maintaining or improving their GPAs! It features custom API endpoints for data management and uses Firebase for authentication, offering a streamlined user experience.",
+    image: "/learnflow.png",
+    github: "https://github.com/hqasmei/thankful-thoughts",
+    link: "https://learnflowgpt.com",
+  },
+  
+  {
     name: "Study Time Tracker",
     description:
       "This is a web app designed to help students keep track of how many hours they've spent on each of their subjects!",
@@ -14,13 +23,6 @@ const projects = [
     link: "https://pomodorosubjects.com",
   },
   /*
-  {
-    name: "",
-    description: "",
-    image: "",
-    github: "",
-    link: "",
-  },
   {
     name: "",
     description:

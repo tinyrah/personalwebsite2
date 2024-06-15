@@ -17,9 +17,11 @@ const ResearchSection: React.FC = () => {
               Solana Blockchain
             </h1>
             <p>
-                I am currently working on a project that aims to create a decentralized
-                social media platform on the Solana blockchain. The project is still in its early stages
-                but I am excited to see where it goes!
+            I recently wrapped up a project at ACM Research focusing on reducing high gas costs on the Solana blockchain, which are a barrier to scalable decentralized applications. 
+            My work involved optimizing a social media dApp using Rust, leading to a 30% improvement in efficiency and lower gas costs. 
+            I also mentored junior developers and shared our findings with both academic and industry leaders, leading to discussions on blockchain's scalability and viability.
+
+
             </p>
             <br />
             {/* Additional content can go here */}
