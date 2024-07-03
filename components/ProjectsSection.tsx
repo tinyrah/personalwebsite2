@@ -18,7 +18,7 @@ const projects = [
     name: "Study Time Tracker",
     description:
       "This is a web app designed to help students keep track of how many hours they've spent on each of their subjects!",
-    image: "/pomodorosubjects.png",
+    image: "/pomodorosubjects1.png",
     github: "https://github.com/hqasmei/thankful-thoughts",
     link: "https://pomodorosubjects.com",
   },
