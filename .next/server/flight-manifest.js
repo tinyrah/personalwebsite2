@@ -1,31 +1,5 @@
 self.__RSC_MANIFEST={
   "__ssr_module_mapping__": {
-    "(app-client)/./app/layout.tsx": {
-      "": {
-        "id": "(sc_client)/./app/layout.tsx",
-        "name": "",
-        "chunks": [
-          "app/layout:app/layout"
-        ],
-        "async": false
-      },
-      "*": {
-        "id": "(sc_client)/./app/layout.tsx",
-        "name": "*",
-        "chunks": [
-          "app/layout:app/layout"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./app/layout.tsx",
-        "name": "default",
-        "chunks": [
-          "app/layout:app/layout"
-        ],
-        "async": false
-      }
-    },
     "(app-client)/./components/HeroSection.tsx": {
       "": {
         "id": "(sc_client)/./components/HeroSection.tsx",
@@ -126,6 +100,32 @@ self.__RSC_MANIFEST={
         "name": "default",
         "chunks": [
           "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./app/layout.tsx": {
+      "": {
+        "id": "(sc_client)/./app/layout.tsx",
+        "name": "",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "async": false
+      },
+      "*": {
+        "id": "(sc_client)/./app/layout.tsx",
+        "name": "*",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/layout.tsx",
+        "name": "default",
+        "chunks": [
+          "app/layout:app/layout"
         ],
         "async": false
       }
@@ -237,11 +237,167 @@ self.__RSC_MANIFEST={
   },
   "__edge_ssr_module_mapping__": {},
   "__entry_css_files__": {
-    "/Users/raulhernandez/Documents/projects/All projects/personalwebsite2/app/layout": [
+    "/Users/raulhernandez/Documents/active/test/personalwebsite2/app/layout": [
       "static/css/app/layout.css"
     ]
   },
-  "/Users/raulhernandez/Documents/projects/All projects/personalwebsite2/styles/globals.css": {
+  "/Users/raulhernandez/Documents/active/test/personalwebsite2/components/HeroSection.tsx": {
+    "": {
+      "id": "(app-client)/./components/HeroSection.tsx",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./components/HeroSection.tsx",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./components/HeroSection.tsx",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    }
+  },
+  "/Users/raulhernandez/Documents/active/test/personalwebsite2/components/SlideUp.tsx": {
+    "": {
+      "id": "(app-client)/./components/SlideUp.tsx",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./components/SlideUp.tsx",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./components/SlideUp.tsx",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    }
+  },
+  "/Users/raulhernandez/Documents/active/test/personalwebsite2/node_modules/next/dist/client/image.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    }
+  },
+  "/Users/raulhernandez/Documents/active/test/personalwebsite2/node_modules/next/dist/esm/client/image.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    }
+  },
+  "/Users/raulhernandez/Documents/active/test/personalwebsite2/node_modules/next/dist/client/link.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    }
+  },
+  "/Users/raulhernandez/Documents/active/test/personalwebsite2/node_modules/next/dist/esm/client/link.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    }
+  },
+  "/Users/raulhernandez/Documents/active/test/personalwebsite2/styles/globals.css": {
     "default": {
       "id": "null",
       "name": "default",
@@ -250,7 +406,7 @@ self.__RSC_MANIFEST={
       ]
     }
   },
-  "/Users/raulhernandez/Documents/projects/All projects/personalwebsite2/app/layout.tsx": {
+  "/Users/raulhernandez/Documents/active/test/personalwebsite2/app/layout.tsx": {
     "": {
       "id": "(app-client)/./app/layout.tsx",
       "name": "",
@@ -276,163 +432,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/Users/raulhernandez/Documents/projects/All projects/personalwebsite2/components/HeroSection.tsx": {
-    "": {
-      "id": "(app-client)/./components/HeroSection.tsx",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "*": {
-      "id": "(app-client)/./components/HeroSection.tsx",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "default": {
-      "id": "(app-client)/./components/HeroSection.tsx",
-      "name": "default",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    }
-  },
-  "/Users/raulhernandez/Documents/projects/All projects/personalwebsite2/components/SlideUp.tsx": {
-    "": {
-      "id": "(app-client)/./components/SlideUp.tsx",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "*": {
-      "id": "(app-client)/./components/SlideUp.tsx",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "default": {
-      "id": "(app-client)/./components/SlideUp.tsx",
-      "name": "default",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    }
-  },
-  "/Users/raulhernandez/Documents/projects/All projects/personalwebsite2/node_modules/next/dist/client/image.js": {
-    "": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "*": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "default": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "default",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    }
-  },
-  "/Users/raulhernandez/Documents/projects/All projects/personalwebsite2/node_modules/next/dist/esm/client/image.js": {
-    "": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "*": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "default": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "default",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    }
-  },
-  "/Users/raulhernandez/Documents/projects/All projects/personalwebsite2/node_modules/next/dist/client/link.js": {
-    "": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "*": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "default": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "default",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    }
-  },
-  "/Users/raulhernandez/Documents/projects/All projects/personalwebsite2/node_modules/next/dist/esm/client/link.js": {
-    "": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "*": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "*",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    },
-    "default": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "default",
-      "chunks": [
-        "app/page:app/page"
-      ],
-      "async": false
-    }
-  },
-  "/Users/raulhernandez/Documents/projects/All projects/personalwebsite2/node_modules/next/dist/client/components/app-router.js": {
+  "/Users/raulhernandez/Documents/active/test/personalwebsite2/node_modules/next/dist/client/components/app-router.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
@@ -458,7 +458,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/Users/raulhernandez/Documents/projects/All projects/personalwebsite2/node_modules/next/dist/esm/client/components/app-router.js": {
+  "/Users/raulhernandez/Documents/active/test/personalwebsite2/node_modules/next/dist/esm/client/components/app-router.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
@@ -484,7 +484,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/Users/raulhernandez/Documents/projects/All projects/personalwebsite2/node_modules/next/dist/client/components/error-boundary.js": {
+  "/Users/raulhernandez/Documents/active/test/personalwebsite2/node_modules/next/dist/client/components/error-boundary.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
@@ -510,7 +510,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/Users/raulhernandez/Documents/projects/All projects/personalwebsite2/node_modules/next/dist/esm/client/components/error-boundary.js": {
+  "/Users/raulhernandez/Documents/active/test/personalwebsite2/node_modules/next/dist/esm/client/components/error-boundary.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
@@ -536,7 +536,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/Users/raulhernandez/Documents/projects/All projects/personalwebsite2/node_modules/next/dist/client/components/layout-router.js": {
+  "/Users/raulhernandez/Documents/active/test/personalwebsite2/node_modules/next/dist/client/components/layout-router.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
@@ -562,7 +562,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/Users/raulhernandez/Documents/projects/All projects/personalwebsite2/node_modules/next/dist/esm/client/components/layout-router.js": {
+  "/Users/raulhernandez/Documents/active/test/personalwebsite2/node_modules/next/dist/esm/client/components/layout-router.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
@@ -588,7 +588,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/Users/raulhernandez/Documents/projects/All projects/personalwebsite2/node_modules/next/dist/client/components/render-from-template-context.js": {
+  "/Users/raulhernandez/Documents/active/test/personalwebsite2/node_modules/next/dist/client/components/render-from-template-context.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
@@ -614,7 +614,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/Users/raulhernandez/Documents/projects/All projects/personalwebsite2/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+  "/Users/raulhernandez/Documents/active/test/personalwebsite2/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
